@@ -2,7 +2,7 @@ module github.com/angaz/sqlu
 
 go 1.21.4
 
-require modernc.org/sqlite v1.27.1-0.20231202161847-cf98001416f1
+require modernc.org/sqlite v1.28.0
 
 require (
 	github.com/dustin/go-humanize v1.0.1 // indirect
